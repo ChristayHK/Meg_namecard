@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Taylor;Chris;;;
+FN:Chris Taylor
+ORG:Savills;
+TITLE:Data Science Division
+EMAIL;type=INTERNET;type=WORK;type=pref:christaylorhk@gmail.com
+TEL;type=WORK;type=VOICE:+852 92727315
+item1.ADR;type=WORK;type=pref:;;12th Fl., Cityplaza one, 1111 King's Road, Taikoo Shing\, 09-01;;; ;Hong Kong
+item1.X-ABADR:sg
+item2.URL;type=pref:savills.com.hk
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
