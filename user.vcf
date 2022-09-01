@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Taylor;Chris;;;
-FN:Chris Taylor
-ORG:Savills;
-TITLE:Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:christaylorhk@gmail.com
-TEL;type=WORK;type=VOICE:+852 92727315
-item1.ADR;type=WORK;type=pref:;;12th Fl., Cityplaza one, 1111 King's Road, Taikoo Shing\, 09-01;;; ;Hong Kong
+N:Takahashi;Megumi;;;
+FN:Megumi Takahashi
+ORG:MSIG-Asia;
+TITLE:General Insurance
+EMAIL;type=INTERNET;type=WORK;type=pref:Megumi_Takahashi@hk.msig-asia.com
+TEL;type=WORK;type=VOICE:+852 97234458
+item1.ADR;type=WORK;type=pref:;;9th Fl., Cityplaza one, 1111 King's Road, Taikoo Shing\;;;;Hong Kong
 item1.X-ABADR:sg
-item2.URL;type=pref:savills.com.hk
+item2.URL;type=pref:MSIG-Asia
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
